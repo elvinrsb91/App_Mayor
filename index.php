@@ -8,10 +8,10 @@
 
 <head>
 	    
-<title>APP TUYO</title>
+<title>TUYO</title>
 	
 <link rel="stylesheet" href="CSSB/bootstrap.min.css">
-<link rel="icon" type="img/png" href="">
+<link rel="icon" type="img/png" href="img/icono-01.png">
 <script src="js/jquery_3.4.1.min.js"></script>
 <script src="js/bootstrap.bundle.min.js"></script>	
 <link rel="stylesheet" type="text/css" href="cssaler/alertify.css">
