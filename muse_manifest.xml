@@ -1,0 +1,41 @@
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.tuyo.com" resolutions="1x" timestamp="1606556835514">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3867726017" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index"/>
+    <file name="museutils.js" crc="334180058" ref="index"/>
+    <file name="webpro.js" crc="7309900" ref="index"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="index"/>
+    <file name="touchswipe.js" crc="526709374" ref="index"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-01.png" crc="479239578" seo="true" ref="index"/>
+    <file name="logotuyo.png" crc="3815924456" seo="true" ref="index"/>
+    <file name="baners-01.png" crc="3909561968" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="baners-02.png" crc="171600121" seo="true" ref="index"/>
+    <file name="baners-03.png" crc="416705151" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u175-4.png" crc="305917741" ref="index"/>
+    <file name="iconos de web-01.png" crc="4030750677" seo="true" ref="index"/>
+    <file name="iconos de web-02.png" crc="405103443" seo="true" ref="index"/>
+    <file name="tuyo en blanco-03.png" crc="423709250" seo="true" ref="index"/>
+    <file name="fondo-02-01.png" crc="434578866" seo="true" ref="index"/>
+    <file name="u87-4.png" crc="74231173" ref="index"/>
+    <file name="u219-4.png" crc="4233294059" ref="index"/>
+    <file name="u227-4.png" crc="4186651466" ref="index"/>
+    <file name="u228-4.png" crc="418906250" ref="index"/>
+    <file name="u229-4.png" crc="223920108" ref="index"/>
+    <file name="u221.png" crc="4098421938" ref="index"/>
+    <file name="u221-r.png" crc="4098421938" ref="index"/>
+    <file name="u224.png" crc="3974434694" ref="index"/>
+    <file name="u224-r.png" crc="254789593" ref="index"/>
+    <file name="logo-02.png" crc="91497156" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="449436370" seo="true" mt="1606556823633" redirect="true"/>
+</manifest>
